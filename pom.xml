@@ -17,6 +17,7 @@
         <module>Adapter</module>
         <module>Bridge</module>
         <module>Composite</module>
+        <module>Decorator</module>
     </modules>
     <properties>
         <java.version>12</java.version>
