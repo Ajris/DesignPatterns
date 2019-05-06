@@ -19,6 +19,7 @@
         <module>Composite</module>
         <module>Decorator</module>
         <module>Facade</module>
+        <module>Flyweight</module>
     </modules>
     <properties>
         <java.version>12</java.version>
