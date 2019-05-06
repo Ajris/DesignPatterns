@@ -21,6 +21,7 @@
         <module>Facade</module>
         <module>Flyweight</module>
         <module>Proxy</module>
+        <module>Strategy</module>
     </modules>
     <properties>
         <java.version>12</java.version>
